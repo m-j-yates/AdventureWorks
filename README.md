@@ -1,5 +1,5 @@
 
-# 📊 Sales Performance Dashboard | Power BI
+# 📊 Sales Performance Report | Power BI
 
 Welcome to my interactive Power BI dashboard analyzing regional sales, product performance, and profitability across fiscal year 2020. This project transforms raw transactional data into a dynamic decision-support tool—designed to uncover trends, optimize strategy, and empower business intelligence.
 
@@ -7,7 +7,7 @@ Welcome to my interactive Power BI dashboard analyzing regional sales, product p
 
 ## 🚀 Project Overview
 
-This dashboard is the result of a full-stack analytics workflow: from Excel-based data preparation to polished Power BI visualizations. I cleaned, structured, and enriched the dataset using advanced Excel techniques before designing a dashboard that delivers clarity, insight, and impact.
+This report is the result of a full-stack analytics workflow: from Excel-based data preparation to polished Power BI visualizations. I cleaned, structured, and enriched the dataset using advanced Excel techniques before designing a dashboard that delivers clarity, insight, and impact.
 
 <img width="1442" height="807" alt="image" src="https://github.com/user-attachments/assets/fe38ea5a-f181-4c98-80ca-cba91d9b643c" />
 https://app.powerbi.com/links/pnW03DGqCJ?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare
@@ -28,7 +28,7 @@ https://app.powerbi.com/links/pnW03DGqCJ?ctid=3ea7c128-c601-4479-a003-e14d00c0b5
   - Built a cohesive layout that guides users through the story
 ---
 
-## 📸 Dashboard Highlights
+## 📸 Report Highlights
 
 > These visuals bring the data story to life:
 
@@ -56,7 +56,7 @@ https://app.powerbi.com/links/pnW03DGqCJ?ctid=3ea7c128-c601-4479-a003-e14d00c0b5
 
 ## 💡 Why This Matters
 
-This isn’t just a dashboard—it’s a strategic engine for sales intelligence. By combining Excel precision with Power BI storytelling, I’ve built a tool that empowers smarter decisions across marketing, operations, and finance.
+This isn’t just a report—it’s a strategic engine for sales intelligence. With Power BI storytelling, I’ve built a tool that empowers smarter decisions across marketing, operations, and finance.
 
 ---
 
